@@ -21,4 +21,4 @@ Here are some of the features that Telegraf currently supports that make it a gr
 It compiles into a single binary with no external dependencies.
 * Minimal memory footprint.
 * Plugin system allows new inputs and outputs to be easily added.
-* A wide number of plugins for many popular services already exist for well known services and APIs.
+* A wide number of plugins already exist for well known services and APIs.
